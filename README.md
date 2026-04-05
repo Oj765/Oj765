@@ -101,11 +101,33 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=oj765&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=oj765&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=oj765&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oj765&theme=tokyonight&hide_border=false&layout=compact)
+<img src="https://nirzak-streak-stats.vercel.app/?user=oj765&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oj765&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oj765&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=oj765&icon=5&color=6"/>
+</p>
 
 ---
 
