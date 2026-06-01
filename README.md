@@ -99,32 +99,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oj765&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=oj765&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oj765&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=oj765&icon=5&color=6"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 📧 Email: meet.oj1508@gmail.com  
